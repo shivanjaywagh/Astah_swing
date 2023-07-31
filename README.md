@@ -1,1 +1,1 @@
-# CSE564_assign4
+A Java GUI software for drawing class diagrams. Loosely inspired by Astah. 

@@ -12,3 +12,24 @@ Save the code to a file.
 Load the diagram and code from a file.
  A status bar.
 
+
+The design patterns implemented, along with the classes involved, are as follows-
+**Observer Pattern**:
+Observer.java
+Observable.java
+LeftPanel.java
+RightPanel.java
+**Decorator Pattern**:
+AssociationDecorator.java
+InheritanceDecorator.java
+CompositionDecorator.java
+JustLine.java
+JustLineDecorator.java
+**Singleton Pattern**:
+RightPanel.java
+Blackboard.java
+**Chain of Responsibility Pattern**:
+AssociationChain.java
+Chain.java
+CompositionChain.java
+InheritanceChain.java

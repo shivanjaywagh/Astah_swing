@@ -19,15 +19,18 @@ Observer.java
 Observable.java
 LeftPanel.java
 RightPanel.java
+
 **Decorator Pattern**:
 AssociationDecorator.java
 InheritanceDecorator.java
 CompositionDecorator.java
 JustLine.java
 JustLineDecorator.java
+
 **Singleton Pattern**:
 RightPanel.java
 Blackboard.java
+
 **Chain of Responsibility Pattern**:
 AssociationChain.java
 Chain.java
